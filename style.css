@@ -1,0 +1,8 @@
+body {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#gameCanvas {
+    border-radius: 15px;
+}
